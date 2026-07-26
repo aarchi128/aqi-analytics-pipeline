@@ -4,32 +4,6 @@
 
 ---
 
-## 📌 Table of Contents
-
-- [Project Overview](#project-overview)
-- [Business Problem](#business-problem)
-- [Project Objectives](#project-objectives)
-- [Dataset](#dataset)
-- [Data Dictionary](#data-dictionary)
-- [Project Structure](#project-structure)
-- [Data Preparation](#data-preparation)
-- [Data Cleaning](#data-cleaning)
-- [Data Transformation](#data-transformation)
-- [Data Analysis](#data-analysis)
-- [Database Design](#database-design)
-- [Dashboard](#dashboard)
-- [How to Read This Dashboard](#how-to-read-this-dashboard)
-- [Key Performance Indicators](#key-performance-indicators)
-- [Key Insights](#key-insights)
-- [Recommendations](#recommendations)
-- [Project Workflow](#project-workflow)
-- [How to Run the Project](#how-to-run-the-project)
-- [Results](#results)
-- [Future Improvements](#future-improvements)
-- [Project Limitations](#project-limitations)
-
----
-
 ## 📊 Project Overview
 
 This project builds a fully automated pipeline that pulls live air quality 
